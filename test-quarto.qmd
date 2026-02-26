@@ -1,0 +1,10 @@
+---
+title: "Example Quarto file"
+format: html
+---
+
+This is an example Quarto file to demonstrate Visual Studio's Quarto extension.
+
+```{python}
+2 + 2
+```

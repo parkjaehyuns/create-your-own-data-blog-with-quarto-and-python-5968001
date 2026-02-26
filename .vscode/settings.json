@@ -17,5 +17,8 @@
   "terminal.integrated.fontSize": 18,
   "workbench.colorTheme": "LinkedIn Learning Dark",
   "workbench.fontAliasing": "antialiased",
-  "workbench.statusBar.visible": true
+  "workbench.statusBar.visible": true,
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+  "quarto.path": "C:\\Program Files\\Quarto\\bin\\quarto.cmd",
+  "quarto.render.previewType": "internal"
 }

@@ -1,0 +1,9 @@
+project:
+  type: default
+  preview:
+    port: 3333
+
+jupyter:
+  kernel: python3
+  execute:
+    cache: false
