@@ -11,7 +11,7 @@
         "\n",
         "This is an example Quarto file to demonstrate Visual Studio's Quarto extension."
       ],
-      "id": "401eb8af"
+      "id": "ee5025af"
     },
     {
       "cell_type": "code",
@@ -19,7 +19,7 @@
       "source": [
         "2 + 2"
       ],
-      "id": "f7e8ee75",
+      "id": "362f7f36",
       "execution_count": null,
       "outputs": []
     }
